@@ -1,0 +1,7 @@
+nconst	primaryName	birthYear	deathYear	primaryProfession	knownForTitles
+nm0000001	Fred Astaire	1899	1987	soundtrack,actor,miscellaneous	tt0000002,tt0000005,tt0000003,tt0000004
+nm0000002	Lauren Bacall	1924	2014	actress,soundtrack	tt0000005,tt0049189,tt0000007,tt0000008
+nm0000003	Brigitte Bardot	1934	\N	actress,soundtrack,producer	tt0057345,tt0049189,tt0054452,tt0059956
+nm0000004	Tom Hardy	1949	1982	actor,writer,soundtrack	tt0059956,tt0072562,tt0078723,tt0080455
+nm0000005	Tom Hardy	1918	2007	writer,director,actor	tt0000007,tt0000009
+nm0000102	Kevin Bacon	1958	\N	actor,producer,soundtrack	tt0361127,tt0000002,tt0000003,tt0164052

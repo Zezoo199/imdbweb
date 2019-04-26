@@ -1,0 +1,9 @@
+CREATE INDEX IF NOT EXISTS type_index on TITLES(type);
+
+CREATE INDEX IF NOT EXISTS profession_index on NAMES(profession);
+
+create index IF NOT EXISTS name_index on NAMES(name);
+
+DROP INDEX IF EXISTS rate_index;
+
+CREATE INDEX rate_index on titles(weighted_rating);
